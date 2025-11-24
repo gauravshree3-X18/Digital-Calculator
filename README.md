@@ -156,6 +156,3 @@ Wrong/invalid menu choice
 
 Created by Gaurav
 Feel free to improve or modify the project.
-
-Created by Gaurav
-Feel free to improve or modify the project.
